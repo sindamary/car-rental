@@ -1,0 +1,49 @@
+body {
+    margin: 0%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: 1D4910;
+    width: 100%;
+    height: 100%;
+}
+
+.inner-container {
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    background-color: fff;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 48px;
+    color: #3D7142;
+}
+
+.text-line {
+    border: none;
+    border-bottom: 1px solid #4B4E4B;
+}
+
+.Signinbutton {
+    color: white;
+    background-color: #205E38;
+    border-radius: 10px;
+    height: 40px;
+    width: 250px;
+    border-color: black;
+}
+
+.account {
+    color: #7fad4e;
+}
+
+.account-link {
+    font-weight: bold;
+    color: #186217;
+    text-decoration: none;
+}
