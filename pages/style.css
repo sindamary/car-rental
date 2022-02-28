@@ -1,0 +1,12 @@
+body {
+    background-image: url(images/Signup.png)
+}
+
+#p {
+    font-color: #258DE7;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+}
